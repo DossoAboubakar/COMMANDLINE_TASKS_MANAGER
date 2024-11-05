@@ -122,8 +122,6 @@ You can find the repository on GitHub here: [COMMANDLINE_TASKS_MANAGER](https://
 https://roadmap.sh/projects/task-tracker
 ```
 
-You can find the repository on GitHub here: [COMMANDLINE_TASKS_MANAGER](https://github.com/DossoAboubakar/COMMANDLINE_TASKS_MANAGER/blob/main/README.md)
-
 ## License
 
 This project is open-source and available for all.
