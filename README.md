@@ -113,11 +113,10 @@ python task_manager.py delete 2
 
 The script will notify you if you attempt to update, delete, or mark a task that does not exist by ID.
 
-## Project URL
-```bash
-https://github.com/DossoAboubakar/COMMANDLINE_TASKS_MANAGER/blob/main/tasks.json
-```
+## Repository
+
+You can find the repository on GitHub here: [COMMANDLINE_TASKS_MANAGER](https://github.com/DossoAboubakar/COMMANDLINE_TASKS_MANAGER/blob/main/README.md)
 
 ## License
 
-OpenSource
+This project is open-source and available for all.
